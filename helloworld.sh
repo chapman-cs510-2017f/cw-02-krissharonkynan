@@ -1,10 +1,10 @@
 #!/bin/bash
 
-
-
 if [ $# == 0 ]; then
   echo "Hello World!"
-  exit 1 # This exits as a failure
+  exit 0 # 0=success
 fi
 
-exit 0
+echo "Dont use command line arguments"
+
+exit 1 #1 failure
