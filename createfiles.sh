@@ -4,7 +4,10 @@ mkdir tmpfiles
 
 cd tmpfiles
 
-for i in {1..100}
-do mktemp /tmp/fileXXX
-done
+touch file{001..100}.tmp
+
+for tmpfiles in *.tmp;
+do mv "$tmpfiles" "${tmpfiles//file/Temporary file }";
+done 
+ 
 
