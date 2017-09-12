@@ -1,6 +1,6 @@
 # CS510 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Kristalee Lio, Sharon Kim, Kynan Barton**
 
 ## Specification
 
@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment really helped us get acclimated with coding and problem solving on our own. By scouring the web for different methods to complete the same assignment, we learned that there are many ways to complete the same assignment with varying levels of efficiency. Simply googling answers and looking for solutions requires a level of collaboration umatched in assignment 1. Additionally, we have an increased familiarity using github and have successfully push/pulled/committed our respective work efforts. **
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Kynan Barton, Kristalee Lio, Sharon Kim**
